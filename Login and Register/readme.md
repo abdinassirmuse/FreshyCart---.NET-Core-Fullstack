@@ -35,9 +35,9 @@ The database that was used in this project is SQL.
 ## Frontend pictures 
 
 ### Register page
-![alt text](https://github.com/abdinassirmuse/.NET-Core-with-Angular-JS---Projects/blob/master/Simple%20Login%20and%20Register/FreshyCart/frontend%20images/register.PNG)
+![alt text](https://github.com/abdinassirmuse/FreshyCart---.NET-Core-Fullstack/blob/master/Login%20and%20Register/FreshyCart/frontend%20images/register.PNG)
 
 ### Login page
-![alt text](https://github.com/abdinassirmuse/.NET-Core-with-Angular-JS---Projects/blob/master/Simple%20Login%20and%20Register/FreshyCart/frontend%20images/login.PNG)
+![alt text](https://github.com/abdinassirmuse/FreshyCart---.NET-Core-Fullstack/blob/master/Login%20and%20Register/FreshyCart/frontend%20images/login.PNG)
 
 *background image by travis blessing from Pexels*
