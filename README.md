@@ -11,8 +11,14 @@ It will contains all the various stages of the the project starting from the Log
 
 ## Purpose: 
 I have been learning about .NET Core these past couple of months. I thought it would be a 
-great way for me to showcase that I know how to use this technology and solidify my knowledge by taking on 
+great way for me to showcase that I know how to use this technology and solidify my knowledge with this technology by taking on 
 this challenge. 
+
+
 
 ### You can follow along on the updates at:
 https://www.linkedin.com/feed/hashtag/?keywords=%23mynetcoreproject
+
+
+### License:
+You may use the projects in the repository for personal, academic, or educational use but not commercial use. 
