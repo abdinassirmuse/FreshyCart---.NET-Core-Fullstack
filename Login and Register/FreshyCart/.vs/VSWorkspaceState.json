@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\FreshyCartApp",
+    "\\FreshyCartApp\\src",
+    "\\FreshyCartApp\\src\\app",
+    "\\FreshyCartApp\\src\\app\\FreshyCart-components",
+    "\\FreshyCartApp\\src\\app\\FreshyCart-components\\home",
+    "\\FreshyCartApp\\src\\app\\FreshyCart-components\\login-user",
+    "\\FreshyCartApp\\src\\app\\FreshyCart-components\\register-user",
+    "\\FreshyCartApp\\src\\app\\FreshyCart-services"
+  ],
+  "PreviewInSolutionExplorer": false
+}

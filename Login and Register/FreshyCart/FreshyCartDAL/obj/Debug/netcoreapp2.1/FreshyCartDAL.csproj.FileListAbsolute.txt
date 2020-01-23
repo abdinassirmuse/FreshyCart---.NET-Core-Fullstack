@@ -1,0 +1,30 @@
+C:\Users\hamsa\Music\Personal Projects\.NET Core Projects with Angular\Login and Register\FreshyCart\FreshyCartDAL\bin\Debug\netcoreapp2.1\FreshyCartDAL.deps.json
+C:\Users\hamsa\Music\Personal Projects\.NET Core Projects with Angular\Login and Register\FreshyCart\FreshyCartDAL\bin\Debug\netcoreapp2.1\FreshyCartDAL.runtimeconfig.json
+C:\Users\hamsa\Music\Personal Projects\.NET Core Projects with Angular\Login and Register\FreshyCart\FreshyCartDAL\bin\Debug\netcoreapp2.1\FreshyCartDAL.runtimeconfig.dev.json
+C:\Users\hamsa\Music\Personal Projects\.NET Core Projects with Angular\Login and Register\FreshyCart\FreshyCartDAL\bin\Debug\netcoreapp2.1\FreshyCartDAL.dll
+C:\Users\hamsa\Music\Personal Projects\.NET Core Projects with Angular\Login and Register\FreshyCart\FreshyCartDAL\bin\Debug\netcoreapp2.1\FreshyCartDAL.pdb
+C:\Users\hamsa\Music\Personal Projects\.NET Core Projects with Angular\Login and Register\FreshyCart\FreshyCartDAL\obj\Debug\netcoreapp2.1\FreshyCartDAL.AssemblyInfoInputs.cache
+C:\Users\hamsa\Music\Personal Projects\.NET Core Projects with Angular\Login and Register\FreshyCart\FreshyCartDAL\obj\Debug\netcoreapp2.1\FreshyCartDAL.AssemblyInfo.cs
+C:\Users\hamsa\Music\Personal Projects\.NET Core Projects with Angular\Login and Register\FreshyCart\FreshyCartDAL\obj\Debug\netcoreapp2.1\FreshyCartDAL.dll
+C:\Users\hamsa\Music\Personal Projects\.NET Core Projects with Angular\Login and Register\FreshyCart\FreshyCartDAL\obj\Debug\netcoreapp2.1\FreshyCartDAL.pdb
+C:\Users\hamsa\Music\Personal Projects\.NET Core Projects with Angular\Login and Register\FreshyCart\FreshyCartDAL\obj\Debug\netcoreapp2.1\FreshyCartDAL.csprojAssemblyReference.cache
+C:\Users\hamsa\Music\Personal Projects\Github Stuff\1. Getting it Ready\FreshyCart\FreshyCartDAL\bin\Debug\netcoreapp2.1\FreshyCartDAL.deps.json
+C:\Users\hamsa\Music\Personal Projects\Github Stuff\1. Getting it Ready\FreshyCart\FreshyCartDAL\bin\Debug\netcoreapp2.1\FreshyCartDAL.runtimeconfig.json
+C:\Users\hamsa\Music\Personal Projects\Github Stuff\1. Getting it Ready\FreshyCart\FreshyCartDAL\bin\Debug\netcoreapp2.1\FreshyCartDAL.runtimeconfig.dev.json
+C:\Users\hamsa\Music\Personal Projects\Github Stuff\1. Getting it Ready\FreshyCart\FreshyCartDAL\bin\Debug\netcoreapp2.1\FreshyCartDAL.dll
+C:\Users\hamsa\Music\Personal Projects\Github Stuff\1. Getting it Ready\FreshyCart\FreshyCartDAL\bin\Debug\netcoreapp2.1\FreshyCartDAL.pdb
+C:\Users\hamsa\Music\Personal Projects\Github Stuff\1. Getting it Ready\FreshyCart\FreshyCartDAL\obj\Debug\netcoreapp2.1\FreshyCartDAL.csprojAssemblyReference.cache
+C:\Users\hamsa\Music\Personal Projects\Github Stuff\1. Getting it Ready\FreshyCart\FreshyCartDAL\obj\Debug\netcoreapp2.1\FreshyCartDAL.AssemblyInfoInputs.cache
+C:\Users\hamsa\Music\Personal Projects\Github Stuff\1. Getting it Ready\FreshyCart\FreshyCartDAL\obj\Debug\netcoreapp2.1\FreshyCartDAL.AssemblyInfo.cs
+C:\Users\hamsa\Music\Personal Projects\Github Stuff\1. Getting it Ready\FreshyCart\FreshyCartDAL\obj\Debug\netcoreapp2.1\FreshyCartDAL.dll
+C:\Users\hamsa\Music\Personal Projects\Github Stuff\1. Getting it Ready\FreshyCart\FreshyCartDAL\obj\Debug\netcoreapp2.1\FreshyCartDAL.pdb
+C:\Users\Administrator\Documents\Project\Github Readiness\Login and Register\FreshyCart\FreshyCartDAL\bin\Debug\netcoreapp2.1\FreshyCartDAL.deps.json
+C:\Users\Administrator\Documents\Project\Github Readiness\Login and Register\FreshyCart\FreshyCartDAL\bin\Debug\netcoreapp2.1\FreshyCartDAL.runtimeconfig.json
+C:\Users\Administrator\Documents\Project\Github Readiness\Login and Register\FreshyCart\FreshyCartDAL\bin\Debug\netcoreapp2.1\FreshyCartDAL.runtimeconfig.dev.json
+C:\Users\Administrator\Documents\Project\Github Readiness\Login and Register\FreshyCart\FreshyCartDAL\bin\Debug\netcoreapp2.1\FreshyCartDAL.dll
+C:\Users\Administrator\Documents\Project\Github Readiness\Login and Register\FreshyCart\FreshyCartDAL\bin\Debug\netcoreapp2.1\FreshyCartDAL.pdb
+C:\Users\Administrator\Documents\Project\Github Readiness\Login and Register\FreshyCart\FreshyCartDAL\obj\Debug\netcoreapp2.1\FreshyCartDAL.csprojAssemblyReference.cache
+C:\Users\Administrator\Documents\Project\Github Readiness\Login and Register\FreshyCart\FreshyCartDAL\obj\Debug\netcoreapp2.1\FreshyCartDAL.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\Project\Github Readiness\Login and Register\FreshyCart\FreshyCartDAL\obj\Debug\netcoreapp2.1\FreshyCartDAL.AssemblyInfo.cs
+C:\Users\Administrator\Documents\Project\Github Readiness\Login and Register\FreshyCart\FreshyCartDAL\obj\Debug\netcoreapp2.1\FreshyCartDAL.dll
+C:\Users\Administrator\Documents\Project\Github Readiness\Login and Register\FreshyCart\FreshyCartDAL\obj\Debug\netcoreapp2.1\FreshyCartDAL.pdb
