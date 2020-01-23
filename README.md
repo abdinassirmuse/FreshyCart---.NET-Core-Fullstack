@@ -1,7 +1,7 @@
 # FreshyCart---.NET-Core-Fullstack
 
 **Brief Description:** This repository contains all the folder and files for the FreshyCart project I have decided to launch. 
-It will contains all the various stages of the the project starting from the Register and Login, then the Product Page and all that comes with it, then the Cart page.
+It will contains all the various stages of the the project starting from the Login and Register page, then the Product Page and all that comes with it, then the Cart page.
 
 ## Updates will go as follows:
 1. Login and Register page project will be the first to be uploaded.
