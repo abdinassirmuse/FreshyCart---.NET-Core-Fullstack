@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\FreshyCartApp",
+    "\\FreshyCartApp\\src",
+    "\\FreshyCartApp\\src\\app",
+    "\\FreshyCartApp\\src\\app\\FreshyCart-components",
+    "\\FreshyCartApp\\src\\app\\FreshyCart-components\\login-user",
+    "\\FreshyCartApp\\src\\app\\FreshyCart-components\\register-user",
+    "\\FreshyCartApp\\src\\app\\FreshyCart-components\\view-products",
+    "\\FreshyCartApp\\src\\app\\FreshyCart-interfaces",
+    "\\FreshyCartApp\\src\\app\\FreshyCart-services"
+  ],
+  "SelectedNode": "\\FreshyCartApp\\src\\app\\FreshyCart-components\\view-products\\view-products.component.ts",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,198 @@
+/* You can add global styles to this file, and also import other style files */
+/* You can add global styles to this file, and also import other style files */
+@import '~bootstrap/dist/css/bootstrap.min.css';
+@import "~font-awesome/css/font-awesome.css";
+/*@import "https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css";*/
+
+
+/*Styling for Login and Register*/
+* {
+  color: #ffffff;
+}
+
+.bg {
+  background: url('../src/images/travis-lg-bg.jpg') no-repeat;
+  width: 100%;
+  height: 100vh;
+}
+
+.form-container {
+  border: 1px solid #ffffff;
+  padding: 50px 60px;
+  margin-top: 20vh;
+  /* shadow */
+  -webkit-box-shadow: -1px 4px 26px 11px rgba(0,0,0,0.75);
+  -moz-box-shadow: -1px 4px 26px 11px rgba(0,0,0,0.75);
+  box-shadow: -1px 4px 26px 11px rgba(0,0,0,0.75);
+}
+
+
+/***********************VIEW PRODUCTS CSS************************/
+
+* {
+  color: #ffffff;
+}
+
+/*.bg {
+  background: url('../images/travis-lg-bg.jpg') no-repeat;
+  width: 100%;
+  height: 100vh;
+}*/
+
+.form-container {
+  border: 1px solid #ffffff;
+  padding: 50px 60px;
+  margin-top: 20vh;
+  /* shadow */
+  -webkit-box-shadow: -1px 4px 26px 11px rgba(0,0,0,0.75);
+  -moz-box-shadow: -1px 4px 26px 11px rgba(0,0,0,0.75);
+  box-shadow: -1px 4px 26px 11px rgba(0,0,0,0.75);
+}
+
+
+.carousel {
+  box-shadow: 1px 1px 4px 1px rgba(0,0,0,0.5);
+}
+
+.carousel-indicators {
+  z-index: 1 !important;
+}
+
+/* @media only screen and (max-width: 980px)
+{
+    .slider P
+
+} */
+
+
+/*--------------------Products CSS-------------------*/
+
+.featured-categories {
+  margin: 50px 0;
+}
+
+  .featured-categories img {
+    width: 100%;
+    padding: 20px 0;
+    transition: 1s;
+    cursor: pointer;
+  }
+
+    .featured-categories img:hover {
+      transform: scale(1.1);
+    }
+
+.title-box-fc {
+  background: orange;
+  color: #ffffff;
+  width: 280px;
+  padding: 4px 10px;
+  height: 40px;
+  margin-bottom: 10px;
+  display: flex;
+}
+
+  .title-box-fc h2 {
+    font-size: 24px;
+  }
+
+  .title-box-fc::after {
+    content: '';
+    border-top: 40px solid orange;
+    border-right: 50px solid transparent;
+    position: absolute;
+    display: flex;
+    margin-top: -4px;
+    margin-left: 270px;
+  }
+
+
+/*-------------------On Sale Products CSS--------------------*/
+.title-box {
+  background: orange;
+  color: #ffffff;
+  width: 180px;
+  padding: 4px 10px;
+  height: 40px;
+  margin-bottom: 30px;
+  display: flex;
+}
+
+  .title-box h2 {
+    font-size: 24px;
+  }
+
+  .title-box::after {
+    content: '';
+    border-top: 40px solid orange;
+    border-right: 50px solid transparent;
+    position: absolute;
+    display: flex;
+    margin-top: -4px;
+    margin-left: 170px;
+  }
+
+/*------------------Product-top CSS------------------------*/
+
+.product-top {
+  width: 100%;
+}
+
+  .product-top img {
+    width: 100%;
+    padding: 20px 0;
+  }
+
+.overlay-right {
+  display: block;
+  opacity: 0;
+  position: absolute;
+  top: 10%;
+  margin-left: 0;
+  width: 70px;
+}
+
+  .overlay-right .fa {
+    cursor: pointer;
+    background-color: #ffffff;
+    color: black;
+    height: 35px;
+    width: 35px;
+    font-size: 20px;
+    padding: 7px;
+    margin-top: 5%;
+    margin-bottom: 5%;
+  }
+
+  .overlay-right .btn-secondary {
+    background: none !important;
+    border: none !important;
+    box-shadow: none !important;
+  }
+
+.product-top:hover .overlay-right {
+  opacity: 1;
+  margin-left: 5%;
+  transition: 0.5s;
+}
+
+/*------------------Product-bottom CSS-------------------------*/
+.product-bottom .fa {
+  color: black;
+  font-size: 10px;
+}
+
+.product-bottom h3 {
+  font-size: 20px;
+  font-weight: bold;
+  color: black;
+}
+
+.product-bottom h5 {
+  font-size: 15px;
+  padding-bottom: 10px;
+  color: black;
+}
+
+
+
