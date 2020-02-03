@@ -52,10 +52,10 @@ Database Setup:
 ## Frontend pictures 
 
 ### Register page
-![alt text](https://github.com/abdinassirmuse/.NET-Core-with-Angular-JS---Projects/blob/master/Simple%20Login%20and%20Register/FreshyCart/frontend%20images/register.PNG)
+![alt text](https://github.com/abdinassirmuse/FreshyCart---.NET-Core-Fullstack/blob/master/Login%20and%20Register/FreshyCart/frontend%20images/register.PNG)
 
 
-*The credit for the images used in the project are all available in the /FreshyCartImages/Credit for Images* folder. 
+The credit for the images used in the project are all available in the *../FreshyCartImages/Credit for Images* folder. 
 
 ##License:
 You may use the projects in the repository for personal, academic, or educational use but not commercial use.
