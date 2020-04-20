@@ -1,0 +1,74 @@
+C:\Users\hamsa\Music\Personal Projects\.NET Core Projects with Angular\Login and Register\FreshyCart\FreshyCartWebAPI\obj\Debug\netcoreapp2.1\FreshyCartWebAPI.csprojAssemblyReference.cache
+C:\Users\hamsa\Music\Personal Projects\.NET Core Projects with Angular\Login and Register\FreshyCart\FreshyCartWebAPI\obj\Debug\netcoreapp2.1\FreshyCartWebAPI.RazorAssemblyInfo.cache
+C:\Users\hamsa\Music\Personal Projects\.NET Core Projects with Angular\Login and Register\FreshyCart\FreshyCartWebAPI\obj\Debug\netcoreapp2.1\FreshyCartWebAPI.RazorAssemblyInfo.cs
+C:\Users\hamsa\Music\Personal Projects\.NET Core Projects with Angular\Login and Register\FreshyCart\FreshyCartWebAPI\obj\Debug\netcoreapp2.1\FreshyCartWebAPI.AssemblyInfoInputs.cache
+C:\Users\hamsa\Music\Personal Projects\.NET Core Projects with Angular\Login and Register\FreshyCart\FreshyCartWebAPI\obj\Debug\netcoreapp2.1\FreshyCartWebAPI.AssemblyInfo.cs
+C:\Users\hamsa\Music\Personal Projects\.NET Core Projects with Angular\Login and Register\FreshyCart\FreshyCartWebAPI\bin\Debug\netcoreapp2.1\FreshyCartWebAPI.deps.json
+C:\Users\hamsa\Music\Personal Projects\.NET Core Projects with Angular\Login and Register\FreshyCart\FreshyCartWebAPI\bin\Debug\netcoreapp2.1\FreshyCartWebAPI.runtimeconfig.json
+C:\Users\hamsa\Music\Personal Projects\.NET Core Projects with Angular\Login and Register\FreshyCart\FreshyCartWebAPI\bin\Debug\netcoreapp2.1\FreshyCartWebAPI.runtimeconfig.dev.json
+C:\Users\hamsa\Music\Personal Projects\.NET Core Projects with Angular\Login and Register\FreshyCart\FreshyCartWebAPI\bin\Debug\netcoreapp2.1\FreshyCartWebAPI.dll
+C:\Users\hamsa\Music\Personal Projects\.NET Core Projects with Angular\Login and Register\FreshyCart\FreshyCartWebAPI\bin\Debug\netcoreapp2.1\FreshyCartWebAPI.pdb
+C:\Users\hamsa\Music\Personal Projects\.NET Core Projects with Angular\Login and Register\FreshyCart\FreshyCartWebAPI\bin\Debug\netcoreapp2.1\FreshyCartDAL.dll
+C:\Users\hamsa\Music\Personal Projects\.NET Core Projects with Angular\Login and Register\FreshyCart\FreshyCartWebAPI\bin\Debug\netcoreapp2.1\FreshyCartDAL.pdb
+C:\Users\hamsa\Music\Personal Projects\.NET Core Projects with Angular\Login and Register\FreshyCart\FreshyCartWebAPI\obj\Debug\netcoreapp2.1\FreshyCartWebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\hamsa\Music\Personal Projects\.NET Core Projects with Angular\Login and Register\FreshyCart\FreshyCartWebAPI\obj\Debug\netcoreapp2.1\FreshyCartWebAPI.csproj.CopyComplete
+C:\Users\hamsa\Music\Personal Projects\.NET Core Projects with Angular\Login and Register\FreshyCart\FreshyCartWebAPI\obj\Debug\netcoreapp2.1\FreshyCartWebAPI.dll
+C:\Users\hamsa\Music\Personal Projects\.NET Core Projects with Angular\Login and Register\FreshyCart\FreshyCartWebAPI\obj\Debug\netcoreapp2.1\FreshyCartWebAPI.pdb
+C:\Users\hamsa\Music\Personal Projects\.NET Core Projects with Angular\Login and Register\FreshyCart\FreshyCartWebAPI\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\hamsa\Music\Personal Projects\.NET Core Projects with Angular\Login and Register\FreshyCart\FreshyCartWebAPI\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\hamsa\Music\Personal Projects\.NET Core Projects with Angular\Login and Register\FreshyCart\FreshyCartWebAPI\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\hamsa\Music\Personal Projects\.NET Core Projects with Angular\Products and Cart\FreshyCart\FreshyCartWebAPI\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\hamsa\Music\Personal Projects\.NET Core Projects with Angular\Products and Cart\FreshyCart\FreshyCartWebAPI\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\hamsa\Music\Personal Projects\.NET Core Projects with Angular\Products and Cart\FreshyCart\FreshyCartWebAPI\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\hamsa\Music\Personal Projects\.NET Core Projects with Angular\Products and Cart\FreshyCart\FreshyCartWebAPI\bin\Debug\netcoreapp2.1\FreshyCartWebAPI.deps.json
+C:\Users\hamsa\Music\Personal Projects\.NET Core Projects with Angular\Products and Cart\FreshyCart\FreshyCartWebAPI\bin\Debug\netcoreapp2.1\FreshyCartWebAPI.runtimeconfig.json
+C:\Users\hamsa\Music\Personal Projects\.NET Core Projects with Angular\Products and Cart\FreshyCart\FreshyCartWebAPI\bin\Debug\netcoreapp2.1\FreshyCartWebAPI.runtimeconfig.dev.json
+C:\Users\hamsa\Music\Personal Projects\.NET Core Projects with Angular\Products and Cart\FreshyCart\FreshyCartWebAPI\bin\Debug\netcoreapp2.1\FreshyCartWebAPI.dll
+C:\Users\hamsa\Music\Personal Projects\.NET Core Projects with Angular\Products and Cart\FreshyCart\FreshyCartWebAPI\bin\Debug\netcoreapp2.1\FreshyCartWebAPI.pdb
+C:\Users\hamsa\Music\Personal Projects\.NET Core Projects with Angular\Products and Cart\FreshyCart\FreshyCartWebAPI\bin\Debug\netcoreapp2.1\FreshyCartDAL.dll
+C:\Users\hamsa\Music\Personal Projects\.NET Core Projects with Angular\Products and Cart\FreshyCart\FreshyCartWebAPI\bin\Debug\netcoreapp2.1\FreshyCartDAL.pdb
+C:\Users\hamsa\Music\Personal Projects\.NET Core Projects with Angular\Products and Cart\FreshyCart\FreshyCartWebAPI\obj\Debug\netcoreapp2.1\FreshyCartWebAPI.csprojAssemblyReference.cache
+C:\Users\hamsa\Music\Personal Projects\.NET Core Projects with Angular\Products and Cart\FreshyCart\FreshyCartWebAPI\obj\Debug\netcoreapp2.1\FreshyCartWebAPI.RazorAssemblyInfo.cache
+C:\Users\hamsa\Music\Personal Projects\.NET Core Projects with Angular\Products and Cart\FreshyCart\FreshyCartWebAPI\obj\Debug\netcoreapp2.1\FreshyCartWebAPI.RazorAssemblyInfo.cs
+C:\Users\hamsa\Music\Personal Projects\.NET Core Projects with Angular\Products and Cart\FreshyCart\FreshyCartWebAPI\obj\Debug\netcoreapp2.1\FreshyCartWebAPI.AssemblyInfoInputs.cache
+C:\Users\hamsa\Music\Personal Projects\.NET Core Projects with Angular\Products and Cart\FreshyCart\FreshyCartWebAPI\obj\Debug\netcoreapp2.1\FreshyCartWebAPI.AssemblyInfo.cs
+C:\Users\hamsa\Music\Personal Projects\.NET Core Projects with Angular\Products and Cart\FreshyCart\FreshyCartWebAPI\obj\Debug\netcoreapp2.1\FreshyCartWebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\hamsa\Music\Personal Projects\.NET Core Projects with Angular\Products and Cart\FreshyCart\FreshyCartWebAPI\obj\Debug\netcoreapp2.1\FreshyCartWebAPI.csproj.CopyComplete
+C:\Users\hamsa\Music\Personal Projects\.NET Core Projects with Angular\Products and Cart\FreshyCart\FreshyCartWebAPI\obj\Debug\netcoreapp2.1\FreshyCartWebAPI.dll
+C:\Users\hamsa\Music\Personal Projects\.NET Core Projects with Angular\Products and Cart\FreshyCart\FreshyCartWebAPI\obj\Debug\netcoreapp2.1\FreshyCartWebAPI.pdb
+C:\Users\Administrator\Documents\Project\FreshyCart\FreshyCart\FreshyCartWebAPI\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Administrator\Documents\Project\FreshyCart\FreshyCart\FreshyCartWebAPI\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Administrator\Documents\Project\FreshyCart\FreshyCart\FreshyCartWebAPI\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Administrator\Documents\Project\FreshyCart\FreshyCart\FreshyCartWebAPI\bin\Debug\netcoreapp2.1\FreshyCartWebAPI.deps.json
+C:\Users\Administrator\Documents\Project\FreshyCart\FreshyCart\FreshyCartWebAPI\bin\Debug\netcoreapp2.1\FreshyCartWebAPI.runtimeconfig.json
+C:\Users\Administrator\Documents\Project\FreshyCart\FreshyCart\FreshyCartWebAPI\bin\Debug\netcoreapp2.1\FreshyCartWebAPI.runtimeconfig.dev.json
+C:\Users\Administrator\Documents\Project\FreshyCart\FreshyCart\FreshyCartWebAPI\bin\Debug\netcoreapp2.1\FreshyCartWebAPI.dll
+C:\Users\Administrator\Documents\Project\FreshyCart\FreshyCart\FreshyCartWebAPI\bin\Debug\netcoreapp2.1\FreshyCartWebAPI.pdb
+C:\Users\Administrator\Documents\Project\FreshyCart\FreshyCart\FreshyCartWebAPI\bin\Debug\netcoreapp2.1\FreshyCartDAL.dll
+C:\Users\Administrator\Documents\Project\FreshyCart\FreshyCart\FreshyCartWebAPI\bin\Debug\netcoreapp2.1\FreshyCartDAL.pdb
+C:\Users\Administrator\Documents\Project\FreshyCart\FreshyCart\FreshyCartWebAPI\obj\Debug\netcoreapp2.1\FreshyCartWebAPI.csprojAssemblyReference.cache
+C:\Users\Administrator\Documents\Project\FreshyCart\FreshyCart\FreshyCartWebAPI\obj\Debug\netcoreapp2.1\FreshyCartWebAPI.RazorAssemblyInfo.cache
+C:\Users\Administrator\Documents\Project\FreshyCart\FreshyCart\FreshyCartWebAPI\obj\Debug\netcoreapp2.1\FreshyCartWebAPI.RazorAssemblyInfo.cs
+C:\Users\Administrator\Documents\Project\FreshyCart\FreshyCart\FreshyCartWebAPI\obj\Debug\netcoreapp2.1\FreshyCartWebAPI.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\Project\FreshyCart\FreshyCart\FreshyCartWebAPI\obj\Debug\netcoreapp2.1\FreshyCartWebAPI.AssemblyInfo.cs
+C:\Users\Administrator\Documents\Project\FreshyCart\FreshyCart\FreshyCartWebAPI\obj\Debug\netcoreapp2.1\FreshyCartWebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Administrator\Documents\Project\FreshyCart\FreshyCart\FreshyCartWebAPI\obj\Debug\netcoreapp2.1\FreshyCartWebAPI.csproj.CopyComplete
+C:\Users\Administrator\Documents\Project\FreshyCart\FreshyCart\FreshyCartWebAPI\obj\Debug\netcoreapp2.1\FreshyCartWebAPI.dll
+C:\Users\Administrator\Documents\Project\FreshyCart\FreshyCart\FreshyCartWebAPI\obj\Debug\netcoreapp2.1\FreshyCartWebAPI.pdb
+C:\Users\v-abmuse\Documents\Github\FreshyCart\FreshyCartWebAPI\bin\Debug\netcoreapp2.1\FreshyCartWebAPI.deps.json
+C:\Users\v-abmuse\Documents\Github\FreshyCart\FreshyCartWebAPI\bin\Debug\netcoreapp2.1\FreshyCartWebAPI.runtimeconfig.json
+C:\Users\v-abmuse\Documents\Github\FreshyCart\FreshyCartWebAPI\bin\Debug\netcoreapp2.1\FreshyCartWebAPI.runtimeconfig.dev.json
+C:\Users\v-abmuse\Documents\Github\FreshyCart\FreshyCartWebAPI\bin\Debug\netcoreapp2.1\FreshyCartWebAPI.dll
+C:\Users\v-abmuse\Documents\Github\FreshyCart\FreshyCartWebAPI\bin\Debug\netcoreapp2.1\FreshyCartWebAPI.pdb
+C:\Users\v-abmuse\Documents\Github\FreshyCart\FreshyCartWebAPI\bin\Debug\netcoreapp2.1\FreshyCartDAL.dll
+C:\Users\v-abmuse\Documents\Github\FreshyCart\FreshyCartWebAPI\bin\Debug\netcoreapp2.1\FreshyCartDAL.pdb
+C:\Users\v-abmuse\Documents\Github\FreshyCart\FreshyCartWebAPI\obj\Debug\netcoreapp2.1\FreshyCartWebAPI.csprojAssemblyReference.cache
+C:\Users\v-abmuse\Documents\Github\FreshyCart\FreshyCartWebAPI\obj\Debug\netcoreapp2.1\FreshyCartWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\v-abmuse\Documents\Github\FreshyCart\FreshyCartWebAPI\obj\Debug\netcoreapp2.1\FreshyCartWebAPI.RazorAssemblyInfo.cache
+C:\Users\v-abmuse\Documents\Github\FreshyCart\FreshyCartWebAPI\obj\Debug\netcoreapp2.1\FreshyCartWebAPI.RazorAssemblyInfo.cs
+C:\Users\v-abmuse\Documents\Github\FreshyCart\FreshyCartWebAPI\obj\Debug\netcoreapp2.1\FreshyCartWebAPI.AssemblyInfoInputs.cache
+C:\Users\v-abmuse\Documents\Github\FreshyCart\FreshyCartWebAPI\obj\Debug\netcoreapp2.1\FreshyCartWebAPI.AssemblyInfo.cs
+C:\Users\v-abmuse\Documents\Github\FreshyCart\FreshyCartWebAPI\obj\Debug\netcoreapp2.1\FreshyCartWebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\v-abmuse\Documents\Github\FreshyCart\FreshyCartWebAPI\obj\Debug\netcoreapp2.1\FreshyCartWebAPI.csproj.CopyComplete
+C:\Users\v-abmuse\Documents\Github\FreshyCart\FreshyCartWebAPI\obj\Debug\netcoreapp2.1\FreshyCartWebAPI.dll
+C:\Users\v-abmuse\Documents\Github\FreshyCart\FreshyCartWebAPI\obj\Debug\netcoreapp2.1\FreshyCartWebAPI.pdb

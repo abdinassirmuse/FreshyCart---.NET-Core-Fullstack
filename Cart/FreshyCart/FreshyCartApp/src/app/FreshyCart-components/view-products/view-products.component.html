@@ -1,0 +1,116 @@
+
+
+<app-home></app-home>
+
+
+<div>
+
+<!-- Image Slider Section -->
+<div class="slider">
+    <div id="slider" class="carousel slide carousel-fade" data-ride="carousel">
+        <div class="carousel-inner">
+            <div class="carousel-item active">
+            <img src="https://ofg.enh.mybluehost.me/Images/SlideShow/assorted-veggies.jpg" class="d-block w-100">
+            </div>
+            <div class="carousel-item">
+            <img src="https://ofg.enh.mybluehost.me/Images/SlideShow/Fruits-in-a-bag.jpg" class="d-block w-100">
+            </div>
+            <div class="carousel-item">
+            <img src="https://ofg.enh.mybluehost.me/Images/SlideShow/abundance-agriculture.jpg" class="d-block w-100" alt="...">
+            </div>
+            <div class="carousel-item">
+                <img src="https://ofg.enh.mybluehost.me/Images/SlideShow/cauliflower.jpg" class="d-block w-100" alt="...">
+                </div>
+        </div>
+        <ol class="carousel-indicators">
+            <li data-target="#slider" data-slide-to="0" class="active"></li>
+            <li data-target="#slider" data-slide-to="1"></li>
+            <li data-target="#slider" data-slide-to="2"></li>
+            <li data-target="#slider" data-slide-to="3"></li>
+            </ol>
+        </div>
+</div>
+
+<!---------------Featured Product Section ------------->
+<section class="featured-categories">
+    <div class="container">
+        <div class="title-box-fc">
+            <h2>Featured Categories</h2>
+        </div>
+        <div class="row" *ngIf="featuredProdList && featuredProdList.length">
+            <div class="col-sm-4" *ngFor="let prod of featuredProdList">
+
+              <img src="{{prod.fpimage}}" >
+                
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-------------------On Sale Products--------------------->
+<section class="on-sale text-center">
+  <div class="container">
+    <div class="title-box">
+      <h2>On Sale</h2>
+    </div>
+    <div class="row" *ngIf="productList && productList.length">
+      <div class="col-sm-3" *ngFor="let product of productList"> <!-- Div - Column - Looping thorugh the productList-->
+      <div class="product-top text-center">
+        <!--<img src="{{product.productImage}}">-->
+        <img src ="{{product.productImage}}">
+        <div class="overlay-right">
+                <!-- <button type="button" class="btn btn-secondary" title="Quick Shop">
+                  <i class="fa fa-eye"></i>
+                </button>
+                <button type="button" class="btn btn-secondary" title="Add to Wishlist">
+                  <i class="fa fa-heart-o"></i>
+                </button> -->
+      
+                <button type="button" class="btn btn-secondary" title="Add to Cart">
+                  <i class="fa fa-shopping-cart" (click)="addToCart(product)"></i>
+                </button>
+            </div>
+
+      </div>
+      <div class="product-bottom text-center">
+        <i class="fa fa-star"></i>
+        <i class="fa fa-star"></i>
+        <i class="fa fa-star"></i>
+        <i class="fa fa-star"></i>
+        <i class="fa fa-star-half-o"></i>
+        <!-- <h3>{{product.productId}}</h3> -->
+        <h3>{{product.productName}}</h3>
+        <h5>{{product.price | currency: 'USD'}}</h5>
+      </div>
+
+  </div> <!-- Div - Column - Looping thorugh the productList-->
+
+</div> <!-- Div - row -->
+
+
+    <div *ngIf="showMsgDiv">
+      <h4 class="jumbotron" style="text-align:center;">No products available</h4>
+    </div>
+
+    </div>
+</section>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

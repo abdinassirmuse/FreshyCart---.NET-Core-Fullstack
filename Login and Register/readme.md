@@ -40,7 +40,7 @@ The database that was used in this project is SQL.
 ### Login page
 ![alt text](https://github.com/abdinassirmuse/FreshyCart---.NET-Core-Fullstack/blob/master/Login%20and%20Register/FreshyCart/frontend%20images/login.PNG)
 
-*background image by travis blessing from Pexels*
+The credit for the images used in the project are all available in the *../FreshyCartImages/Credit for Images* folder. 
 
-##License:
+## License:
 You may use the projects in the repository for personal, academic, or educational use but not commercial use.

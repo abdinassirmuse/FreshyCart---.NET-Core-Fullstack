@@ -49,13 +49,15 @@ Database Setup:
 5. It should launch your default web browser and display the frontend picture below. 
 
 
-## Frontend pictures 
+## Frontend  
 
-### Register page
-![alt text](https://github.com/abdinassirmuse/FreshyCart---.NET-Core-Fullstack/blob/master/Login%20and%20Register/FreshyCart/frontend%20images/register.PNG)
+### Products page 
+![alt text](https://github.com/abdinassirmuse/FreshyCart---.NET-Core-Fullstack/blob/master/Products/FreshyCart/FreshyCartImages/product-page-part1.PNG)
+![alt text](https://github.com/abdinassirmuse/FreshyCart---.NET-Core-Fullstack/blob/master/Products/FreshyCart/FreshyCartImages/product-page-part1.PNG)
+![alt text](https://github.com/abdinassirmuse/FreshyCart---.NET-Core-Fullstack/blob/master/Products/FreshyCart/FreshyCartImages/product-page-part1.PNG)
 
 
 The credit for the images used in the project are all available in the *../FreshyCartImages/Credit for Images* folder. 
 
-##License:
+## License:
 You may use the projects in the repository for personal, academic, or educational use but not commercial use.

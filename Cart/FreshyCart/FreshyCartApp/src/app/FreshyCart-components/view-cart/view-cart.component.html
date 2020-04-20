@@ -1,0 +1,51 @@
+<app-home></app-home>
+
+
+
+<section class="on-sale text-center">
+  <div class="container">
+    <div class="title-box">
+      <h2>Cart</h2>
+    </div>
+    <!-- <div class="right-div">
+      <h2>Total Price: </h2>
+    </div> -->
+    <div class="row" *ngIf="cartProducts && cartProducts.length">
+      <div class="col-sm-3" *ngFor="let product of cartProducts">
+        <!-- Div - Column - Looping thorugh the productList-->
+        <div class="product-top text-center">
+          <!--<img src="{{product.productImage}}">-->
+          <img src="{{product.productImage}}">
+          <div class="overlay-right">
+            <button type="button" class="btn btn-secondary" title="Edit Item">
+              <i class="fa fa-edit" (click)="updateCart(product)"></i>
+            </button>
+            <button type="button" class="btn btn-secondary" title="Delete Item">
+              <i class="fa fa-trash" (click)="deleteFromCart(product)"></i>
+            </button>
+          </div>
+
+        </div>
+        <div class="product-bottom text-center">
+          <i class="fa fa-star"></i>
+          <i class="fa fa-star"></i>
+          <i class="fa fa-star"></i>
+          <i class="fa fa-star"></i>
+          <i class="fa fa-star-half-o"></i>
+          <h3>Name: {{product.productName}}</h3>
+          <h3>Quantity(lbs): {{product.quantity}}</h3>
+          <h5>Total Price: {{product.price * product.quantity | currency: 'USD'}}</h5>
+
+        </div>
+
+      </div> <!-- Div - Column - Looping thorugh the productList-->
+
+    </div> <!-- Div - row -->
+
+
+    <div *ngIf="showMsgDiv">
+      <h4 class="jumbotron" style="text-align:center;">No products available</h4>
+    </div>
+
+  </div>
+</section>

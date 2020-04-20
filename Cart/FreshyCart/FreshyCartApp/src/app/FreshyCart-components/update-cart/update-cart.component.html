@@ -1,0 +1,70 @@
+<app-home></app-home>
+
+<div class="myContent">
+    <div class="container">
+      <form #updateCartForm="ngForm" (ngSubmit)="updateCart(prodQuantity.value)">
+        <div class="row">
+          <div class="col-md-4">
+          </div>
+          <div class="col-md-4">
+            <div class="title-box">
+                <h2 style="text-align:center">Update Cart</h2>
+              </div>
+            <h6 style="text-align:right;color:dimgrey;font-size:small">All fields are mandatory</h6>  
+            <div class="form-group">
+                <!-- <div class="col" style="text-align:left">
+                  <label style="color: black;">Product Id</label>
+                </div> -->
+                <div class="col; input-group">
+                  <input type="hidden" name="prodId" [ngModel]="productId" class="form-control qkinput" readonly>
+                </div>
+              </div>   
+              <div class="form-group">
+                <!-- <div class="col" style="text-align:left">
+                  <label style="color: black;">Product Image</label>
+                </div> -->
+                <div class="col; input-group">
+                  <input type="hidden" name="prodImage" [ngModel]="productImage" class="form-control qkinput" readonly>
+                </div>
+              </div>       
+            <div class="form-group">
+              <div class="col" style="text-align:left">
+                <label style="color: black;">Product Name</label>
+              </div>
+              <div class="col; input-group">
+                <input type="text" name="prodName" [ngModel]="productName" class="form-control qkinput" readonly>
+              </div>
+            </div>
+            <div class="form-group">
+                <div class="col" style="text-align:left">
+                  <label style="color: black;">Price</label>
+                </div>
+                <div class="col; input-group">
+                  <input type="number" name="price" [ngModel]="price" class="form-control qkinput" readonly>
+                </div>
+              </div>
+            <div class="form-group">
+              <div class="col" style="text-align:left">
+                <label style="color: black;">Quantity</label>
+              </div>
+              <div class="col; input-group">
+                <input type="number" name="prodQuantity" #prodQuantity="ngModel" [ngModel]="quantity" class="form-control qkinput" min="1" max="100" required ngModel>
+                <div *ngIf="prodQuantity.errors && (prodQuantity.dirty || prodQuantity.touched)" class="text-danger-validation">
+                  <div [hidden]="!prodQuantity.errors.required">
+                    <br />
+                    Please enter the quantity.
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="form-group" style="text-align:left">
+              <button type="submit" [disabled]="!updateCartForm.form.valid" class="btn btn-secondary">Update</button> &nbsp;&nbsp;
+              <a routerLink="/viewCart">Cancel</a>
+            </div>
+          </div>
+          <div class="col-md-4">
+          </div>
+        </div>
+      </form>
+    </div>
+  </div>
