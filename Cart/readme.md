@@ -1,6 +1,6 @@
 # FreshyCart Cart Page
 
-**Brief Description:** This project is the last part of the FreshyCart project that I decided to launch. Part 1 of the FreshyCart Project was the Login and Register which is utilised in this project as well to get to the product page. 
+**Brief Description:** This project is the last part of the FreshyCart project that I decided to launch.
 
 This projec uses .NET Core with Angular.
 The data access layer and the API was created using .NET Core while the frontend was done using AngularJS with TypeScript. 
