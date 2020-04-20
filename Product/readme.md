@@ -51,10 +51,11 @@ Database Setup:
 
 ## Frontend  
 
-### Products page 
-![alt text](https://github.com/abdinassirmuse/FreshyCart---.NET-Core-Fullstack/blob/master/Products/FreshyCart/FreshyCartImages/product-page-part1.PNG)
-![alt text](https://github.com/abdinassirmuse/FreshyCart---.NET-Core-Fullstack/blob/master/Products/FreshyCart/FreshyCartImages/product-page-part1.PNG)
-![alt text](https://github.com/abdinassirmuse/FreshyCart---.NET-Core-Fullstack/blob/master/Products/FreshyCart/FreshyCartImages/product-page-part1.PNG)
+### Products page
+![alt text](https://github.com/abdinassirmuse/FreshyCart---.NET-Core-Fullstack/blob/master/Product/FreshyCart/FreshyCartImages/product-page-part.PNG)
+![alt text](https://github.com/abdinassirmuse/FreshyCart---.NET-Core-Fullstack/blob/master/Product/FreshyCart/FreshyCartImages/product-page-part2.PNG)
+![alt text](https://github.com/abdinassirmuse/FreshyCart---.NET-Core-Fullstack/blob/master/Product/FreshyCart/FreshyCartImages/product-page-part3.PNG)
+
 
 
 The credit for the images used in the project are all available in the *../FreshyCartImages/Credit for Images* folder. 
