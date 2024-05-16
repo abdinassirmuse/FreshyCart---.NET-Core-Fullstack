@@ -71,4 +71,4 @@ Database Setup:
 The credit for the images used in the project are all available in the *../FreshyCartImages/Credit for Images* folder. 
 
 ## License:
-You may use the projects in the repository for personal, academic, or educational use but not commercial use.
+You may use the projects in the repository for personal, academic,educational, or commercial use.
