@@ -21,4 +21,4 @@ https://www.linkedin.com/feed/hashtag/?keywords=%23mynetcoreproject
 
 
 ### License:
-You may use the projects in the repository for personal, academic, or educational use but not commercial use. 
+You may use the projects in the repository for personal, academic,educational, or commercial use. 
